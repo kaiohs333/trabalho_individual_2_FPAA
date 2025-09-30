@@ -92,11 +92,11 @@ Ambos os métodos confirmam que a complexidade de tempo do algoritmo é **$O(n)$
 
 ### 🖼️ (Ponto Extra) Diagrama Visual da Recursão
 
-Para ilustrar o funcionamento do algoritmo, foi criado um diagrama que demonstra visualmente o processo de divisão e conquista[cite: 65]. O diagrama está localizado na pasta `assets/`.
+Para ilustrar o funcionamento do algoritmo, foi criado um diagrama que demonstra visualmente o processo de divisão e conquista. O diagrama está localizado na pasta `assets/`.
 
-[**Clique aqui para ver o Diagrama**](assets/diagramaMaxMin.png)
+![Diagrama Visual da Recursão](assets/diagramaMaxMin.png)
 
 O diagrama detalha:
-1.  Como a lista original é dividida recursivamente em subproblemas menores[cite: 68].
-2.  Como os resultados (pares de mínimo e máximo) são combinados em cada nível da recursão[cite: 69].
-3.  Os níveis da árvore de recursão e o número de comparações em cada etapa[cite: 70].
+1.  Como a lista original é dividida recursivamente em subproblemas menores.
+2.  Como os resultados (pares de mínimo e máximo) são combinados em cada nível da recursão.
+3.  Os níveis da árvore de recursão e o número de comparações em cada etapa.
