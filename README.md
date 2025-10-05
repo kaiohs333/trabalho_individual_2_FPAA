@@ -1,4 +1,4 @@
-# Projeto  индивидуальный 2 - MaxMin Select 📝
+# Projeto  individual 2 - MaxMin Select 📝
 
 Implementação do algoritmo de seleção simultânea do maior e do menor elementos utilizando a abordagem de divisão e conquista.
 
